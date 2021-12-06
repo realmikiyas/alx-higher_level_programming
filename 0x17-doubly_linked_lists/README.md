@@ -1,1 +1,0 @@
-README for 17-doubly_linked list
