@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 
+import sys
 import MySQLdb
-from sys import argv
 
 '''
 lists all states with starting name with N

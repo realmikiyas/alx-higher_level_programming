@@ -4,8 +4,8 @@ lists all cities from the database
 """
 if __name__ == "__main__":
 
-    import MySQLdb
-    from sys import argv
+import sys
+import MySQLdb
 
     cont = 0
     conect = MySQLdb.connect(host="localhost", port=3306, user=argv[1],
